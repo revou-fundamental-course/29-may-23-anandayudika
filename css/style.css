@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    background-color: bisque;
+    justify-content: space-around;
+    padding: 20px 0px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    width: 20%;
+    justify-content: space-between;
+
+}
